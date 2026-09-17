@@ -1,0 +1,6 @@
+Opção 1 contrato social -> busca no driver (temporário) da empresa na pasta com o nome da empresa o contrato com a ultima alteração (nesta pasta estão todos os contratos sociais/alterações ordenadas por um numero que inicia o nome do Arquivo sendo "0" o contrato social inicial, "1" contrato com a primeira alteração, etc... ao buscar DEVE sempre pegar o contrato com o numero mais alto pois é a ultima alteração que esta valendo
+
+opção 3 CND (Certidão Negativa de Debito) FRederal -> feita pela api do Serpo com CNPJ da empresa cliente
+OBS.: existem mais 5 outras certidões Estadual, Municipal, FGTS, Trabalhista e Simplificada porém essas não possuem APIs oficiais apenas opções terceirizada que cobra por chamada e variam de 0,10 a 0,20 centavos cada uma.
+
+proposta: Ter uma opção de transferência para atendente onde o usuário não diz qual departamento (por não saber ou por não querer) e seja transferido para recepção
